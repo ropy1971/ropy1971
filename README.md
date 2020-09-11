@@ -20,6 +20,7 @@ Please find below all my repositories which are accessible for anybody (public).
 - [azure-runbooks](https://github.com/ropy1971/azure-runbooks)
 - [azure-stencils](https://github.com/ropy1971/azure-stencils)
 - [azure-terraform](https://github.com/ropy1971/azure-terraform)
+- [gcp-powershell]()
 - [gcp-stencils](https://github.com/ropy1971/gcp-stencils)
 - [gcp-terraform](https://github.com/ropy1971/gcp-terraform)
 - [kubernetes](https://github.com/ropy1971/kubernetes)
@@ -32,4 +33,4 @@ Please feel free to clone/commit in these repositories.
 
 *The base is sharing.*
 
-### Last update: 2020.09.10
+### Last update: 2020.09.11
