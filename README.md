@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome!
 
 - 🔭 I’m currently working on different technologies/solutions as PowerShell, Terraform, mostly on Azure and Alibaba Cloud.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning [Python]() and [Swift]()
 - 📫 How to reach me: [LinkedIn]() and [Twitter](https://twitter.com/rooodooolphe)
 
 ### Repositories organization
@@ -26,6 +26,7 @@ Please find below all my repositories which are accessible for anybody (public).
 - [kubernetes](https://github.com/ropy1971/kubernetes)
 - [python-scripts](https://github.com/ropy1971/python-scripts)
 - [sql](https://github.com/ropy1971/sql)
+- [swift]()
 
 ### Comments
 
@@ -33,4 +34,4 @@ Please feel free to clone/commit in these repositories.
 
 Here is my "food": *The base is sharing.*
 
-### Last update: 2020.09.22
+### Last update: 2020.10.06
