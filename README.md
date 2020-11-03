@@ -7,7 +7,7 @@
 
 ### Repositories organization
 
-I organized my GitHub work on different repositories.
+I organized my **GitHub** work on different repositories.
 
 Please find below all my repositories which are accessible for anybody (public).
 
@@ -35,4 +35,4 @@ Please feel free to clone/commit in these repositories.
 
 Here is my "food": *The base is sharing.*
 
-### Last update: 2020.10.06
+### Last update: 2020.11.03
