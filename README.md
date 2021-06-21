@@ -2,7 +2,7 @@
 ### Hi there 👋 and welcome!
 
 - 🔭 I’m currently working on different technologies/solutions as PowerShell, Terraform, mostly on Azure and Alibaba Cloud.
-- 🌱 I’m currently learning [Python](https://www.python.org) and [Swift](https://swift.org)
+- 🌱 I’m currently learning [Python](https://www.python.org) and [Swift](https://swift.org) / SwiftUI
 - 📫 How to reach me: [LinkedIn]() and [Twitter](https://twitter.com/rooodooolphe)
 
 ### Repositories organization
